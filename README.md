@@ -51,13 +51,11 @@ Everyone uses mobile Phone nowadays for every reason. So, it will help to spend 
 ## Folder Structure :point_down:
 
 ```bash
-t5cc-android-app
+rb-coins-tic-tac-toe-android app
       └── app
            └── src
                 └── main
-                      └── java/com/example/t5cc
-                                     ├── conversionactivity.java
-                                     ├── successfulconversion.java
+                      └── java/com/example/rb-coins-tic-tac-toe
                                      └── MainActivity.java
  ```   
  
@@ -65,7 +63,7 @@ t5cc-android-app
 
 <div align="justified">
 
-I have created main 1 java files to create this android app. I have created MainActivity.java, conversionactivity.java, successfulconversion.java and created some logics for implementation of this app. For conversion I have used the logics. 
+I have created main 1 java files to create this android app. I have created MainActivity.java and created some logics for implementation of this app. 
  
 </div>
 
@@ -74,11 +72,7 @@ I have created main 1 java files to create this android app. I have created Main
 
 <div align="center">
   
-<a href="pics/cc1.jpeg"><img src="pics/cc1.jpeg" width="250" height= "450"></a> <a href="pics/c2.jpeg"><img src="pics/c2.jpeg" width="250" height= "450"></a> <a href="pics/cc3.jpeg"><img src="pics/cc3.jpeg" width="250" height= "450"></a>
-       
-<a href="pics/cc4.jpeg"><img src="pics/cc4.jpeg" width="250" height= "450"></a> <a href="pics/cc5.jpeg"><img src="pics/cc5.jpeg" width="250" height= "450"></a> <a href="pics/cc6.jpeg"><img src="pics/cc6.jpeg" width="250" height= "450"></a>
- 
-<a href="pics/cc7.jpeg"><img src="pics/cc7.jpeg" width="250" height= "450"></a> <a href="pics/c8.jpeg"><img src="pics/c8.jpeg" width="250" height= "450"></a> <a href="pics/c9.jpeg"><img src="pics/c9.jpeg" width="250" height= "450"></a>
+<a href="pics/rb1.jpeg"><img src="pics/rb1.jpeg" width="250" height= "450"></a> <a href="pics/rb2.jpeg"><img src="pics/rb2.jpeg" width="250" height= "450"></a> <a href="pics/rb3.jpeg"><img src="pics/rb3.jpeg" width="250" height= "450"></a>
  
 </div>
 
