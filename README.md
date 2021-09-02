@@ -1,8 +1,8 @@
 # RB-COINS_TIC_TAC_TOE-ANDROID-APP :star_struck: 
 
-[![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sdk-%22%3E%3D2.7.0%20%3C3.0.0%22-purple)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/splashscreen-%5E1.2.0-blueviolet)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/java-v%2015-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-app-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/xml-UI-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/classpath-v%204.0.1-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/compile%20sdk%20-v%2030-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/buildtool%20-v%2030.0..2-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/target%20sdk-v%2030-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/min%20sdk-v%2016-purple)](https://shields.io/) 
 
-***This new Flutter application named 'MOCKTAIL_RECIPES' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new android application named 'RB-COINS_TIC_TAC_TOE-ANDROID-APP' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -14,82 +14,77 @@
 <a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
+## What is Tic-Tac-Toe :point_down: 
+
+<div align="justified">
+ 
+Tic-tac-toe, noughts and crosses, or Xs and Os/“X’y O’sies” (Ireland), is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. It is a solved game with a forced draw assuming best play from both players.
+       
+</div>
+
 ## About :point_down: 
 
 <div align="justified">
-       
+ 
+This is a simple tic-tac-toe-RB Coins Game android application. Here when we touch in a place in 3x3 grid we place a coin of yellow and red. Like this when there are 3 same coloured coins in one line that colour wins the game. Like this yellow or red can win or the match can be tied. Then we have to click on the button 'PLY AGAIN' Then the game starts gain. This is a very easy and entertaining game. User of any age can use it and have fun.
 
 </div>
 
-## Catagories of Mocktails in this app :point_down:
-
- - [x] 'Non-Alcoholic'
- - [x] 'Alcoholic'
- 
-
-       
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1vuQ0JMH9sf7bEdHlIk1LG3KVZr5utbZB/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
 <div align="justified">
        
-
-</div>
-
-## Use :point_down:
-
-<div align="justified">
+ I have made this app so that user can play the tic-tac-toe game easily and can have fun.
        
-
-</div>      
+</div>
        
 ## Importance :point_down:
 
 <div align="justified">
 
+Everyone uses mobile Phone nowadays for every reason. So, it will help to spend time and have fun playing this RB coins Tic Tac Toe game. These tic-tac-toe panels improve hand-eye coordination and encourage better social interaction by better collaborative play. And children shouldn't just play with other children. Parents also have a role in the playground more than being supervisors. 
+       
 </div>
 
 ## Folder Structure :point_down:
+
 ```bash
-mocktail-recipe-finder
-       ├── assets
-       |     ├── fonts
-
-       └── lib 
-             ├── models
-  
-             ├── name.dart
-             └── main.dart
- ```                      
-
+t5cc-android-app
+      └── app
+           └── src
+                └── main
+                      └── java/com/example/t5cc
+                                     ├── conversionactivity.java
+                                     ├── successfulconversion.java
+                                     └── MainActivity.java
+ ```   
+ 
 ## Making :point_down:
 
 <div align="justified">
 
-
+I have created main 1 java files to create this android app. I have created MainActivity.java, conversionactivity.java, successfulconversion.java and created some logics for implementation of this app. For conversion I have used the logics. 
+ 
 </div>
 
-## Getting Started :point_down: 
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots :point_down: 
 
 <div align="center">
   
-<a href="pics/m17.jpeg"><img src="pics/m17.jpeg" width="250" height= "450"></a> <a href="pics/m1.jpeg"><img src="pics/m1.jpeg" width="250" height= "450"></a> <a href="pics/m2.jpeg"><img src="pics/m2.jpeg" width="250" height= "450"></a>
+<a href="pics/cc1.jpeg"><img src="pics/cc1.jpeg" width="250" height= "450"></a> <a href="pics/c2.jpeg"><img src="pics/c2.jpeg" width="250" height= "450"></a> <a href="pics/cc3.jpeg"><img src="pics/cc3.jpeg" width="250" height= "450"></a>
        
-
+<a href="pics/cc4.jpeg"><img src="pics/cc4.jpeg" width="250" height= "450"></a> <a href="pics/cc5.jpeg"><img src="pics/cc5.jpeg" width="250" height= "450"></a> <a href="pics/cc6.jpeg"><img src="pics/cc6.jpeg" width="250" height= "450"></a>
+ 
+<a href="pics/cc7.jpeg"><img src="pics/cc7.jpeg" width="250" height= "450"></a> <a href="pics/c8.jpeg"><img src="pics/c8.jpeg" width="250" height= "450"></a> <a href="pics/c9.jpeg"><img src="pics/c9.jpeg" width="250" height= "450"></a>
+ 
 </div>
+
+
+
+
+
 
 
