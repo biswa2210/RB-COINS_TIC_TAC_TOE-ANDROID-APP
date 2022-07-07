@@ -30,7 +30,7 @@ This is a simple tic-tac-toe-RB Coins Game android application. Here when we tou
 
 </div>
 
-## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1vuQ0JMH9sf7bEdHlIk1LG3KVZr5utbZB/view" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1wna8dZlmdFPzrpkBUIoZeJfLNoCT46-4/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
