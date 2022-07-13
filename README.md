@@ -28,6 +28,9 @@ Tic-tac-toe, noughts and crosses, or Xs and Os/“X’y O’sies” (Ireland), i
  
 This is a simple tic-tac-toe-RB Coins Game android application. Here when we touch in a place in 3x3 grid we place a coin of yellow and red. Like this when there are 3 same coloured coins in one line that colour wins the game. Like this yellow or red can win or the match can be tied. Then we have to click on the button 'PLY AGAIN' Then the game starts gain. This is a very easy and entertaining game. User of any age can use it and have fun.
 
+## RB COINS APP DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=hH_FdG4S9X4&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=3&t=4s">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
 </div>
 
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1wna8dZlmdFPzrpkBUIoZeJfLNoCT46-4/view" download>Click here to download</a>
